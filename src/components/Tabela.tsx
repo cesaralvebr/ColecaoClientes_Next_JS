@@ -51,6 +51,7 @@ export default function Tabela({ clientes, clienteSelecionado, clienteExcluido }
     }
 
     return (
+        
         <table className="w-full rounded-xl overflow-hidden">
             <thead className={`
             text-gray-100
